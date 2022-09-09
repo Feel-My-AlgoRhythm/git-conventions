@@ -9,3 +9,4 @@
 | Release | `release/v<release-version>` | 배포를 위한 마무리 작업 브랜치 | Develop | Master |
 | Hotfix | `hotfix/v<hotfix-version>` | 배포 버전에서 발생한 버그 긴급 수정 작업 브랜치 | Master | Master, Develop |
 | Feature | `feature/<feature-name>` | 기능 개발 브랜치 | Develop | Develop |
+| Refactoring | `refactor/<feature-name>` | 리팩토링 브랜치 | Develop | Develop |
